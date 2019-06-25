@@ -1,0 +1,2 @@
+day,model,start date,end date,maxlen,n_hidden,combination,time,correct,semi_correct
+1,LSTM,2009-3-10,2018-10-31,600,300,USD_JPY_diff USD_JPY treasury_10,19,0.5661375661375662,0.5714285714285714

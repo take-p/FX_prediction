@@ -1,0 +1,2 @@
+day,model,start date,end date,maxlen,n_hidden,combination,time,correct,semi_correct
+1,GRU,2009-3-10,2018-10-31,300,200,USD_JPY_diff USD_JPY treasury_10 BB_one_hot_neutral RSI_one_hot,18,0.6118721461187214,0.6210045662100456

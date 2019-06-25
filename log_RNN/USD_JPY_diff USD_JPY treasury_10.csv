@@ -1,0 +1,2 @@
+day,model,start date,end date,maxlen,n_hidden,combination,time,correct,semi_correct
+1,RNN,2009-3-10,2018-10-31,100,400,USD_JPY_diff USD_JPY treasury_10,13,0.4560669456066946,0.47280334728033474

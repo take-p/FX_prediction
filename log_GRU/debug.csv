@@ -1,0 +1,2 @@
+time,x_train.shape,t_train.shape,batch size,epochs
+18,"(1962, 300, 19)","(1962, 4)",256,100
